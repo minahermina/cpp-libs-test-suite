@@ -27,4 +27,6 @@ Note: This is a one-time setup script. After running it, you can compile normall
 - [libunwind#12](https://github.com/unikraft/lib-libunwind/pull/12)
 - [compiler-rt#21](https://github.com/unikraft/lib-compiler-rt/pull/21)
 
+Tested with `gcc 15.2.0` and `clang 19.1.4`
+
 Report any build/runtime issues you encounter.
